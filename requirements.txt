@@ -1,4 +1,4 @@
-pandas
+pandas==1.5.3
 plotly
 alembic==1.9.4
 click==8.1.3
